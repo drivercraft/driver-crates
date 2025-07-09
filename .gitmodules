@@ -1,0 +1,30 @@
+[submodule "crates/rdrive"]
+	path = crates/rdrive
+	url = https://github.com/drivercraft/rdrive
+[submodule "crates/dma-api"]
+	path = crates/dma-api
+	url = https://github.com/drivercraft/dma-api
+[submodule "crates/arm-gic-driver"]
+	path = crates/arm-gic-driver
+	url = https://github.com/rcore-os/arm-gic-driver
+[submodule "crates/mbarrier"]
+	path = crates/mbarrier
+	url = https://github.com/drivercraft/mbarrier
+[submodule "crates/aarch64-cpu-ext"]
+	path = crates/aarch64-cpu-ext
+	url = https://github.com/drivercraft/aarch64-cpu-ext
+[submodule "crates/pcie"]
+	path = crates/pcie
+	url = https://github.com/drivercraft/pcie
+[submodule "crates/serial-async"]
+	path = crates/serial-async
+	url = https://github.com/rcore-os/serial-async
+[submodule "crates/ostool"]
+	path = crates/ostool
+	url = https://github.com/ZR233/ostool
+[submodule "crates/nvme"]
+	path = crates/nvme
+	url = https://github.com/drivercraft/nvme
+[submodule "crates/any-uart"]
+	path = crates/any-uart
+	url = https://github.com/rcore-os/any-uart
