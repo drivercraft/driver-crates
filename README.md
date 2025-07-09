@@ -16,4 +16,6 @@ Reusable crates list for driver development.
 | [ostool](https://github.com/ZR233/ostool) | [![Crates.io](https://img.shields.io/crates/v/ostool.svg)](https://crates.io/crates/ostool) | [![Documentation](https://docs.rs/ostool/badge.svg)](https://docs.rs/ostool) | A tool for operating system development |
 | [nvme-driver](https://github.com/drivercraft/nvme) | [![Crates.io](https://img.shields.io/crates/v/nvme-driver.svg)](https://crates.io/crates/nvme-driver) | [![Documentation](https://docs.rs/nvme-driver/badge.svg)](https://docs.rs/nvme-driver) | nvme driver |
 | [any-uart](https://github.com/rcore-os/any-uart) | [![Crates.io](https://img.shields.io/crates/v/any-uart.svg)](https://crates.io/crates/any-uart) | [![Documentation](https://docs.rs/any-uart/badge.svg)](https://docs.rs/any-uart) | Init early console from device tree, mostly for Arm |
+| [fdt-parser](https://github.com/drivercraft/fdt-parser) | [![Crates.io](https://img.shields.io/crates/v/fdt-parser.svg)](https://crates.io/crates/fdt-parser) | [![Documentation](https://docs.rs/fdt-parser/badge.svg)](https://docs.rs/fdt-parser) | A crate for parsing FDT |
+| [igb_driver](https://github.com/bullhh/igb_driver) | N/A | [![Docs.rs](https://img.shields.io/badge/docs-pages-green)](https://drivercraft.github.io/igb_driver) |  |
 

@@ -28,3 +28,9 @@
 [submodule "crates/any-uart"]
 	path = crates/any-uart
 	url = https://github.com/rcore-os/any-uart
+[submodule "crates/fdt-parser"]
+	path = crates/fdt-parser
+	url = https://github.com/drivercraft/fdt-parser
+[submodule "crates/igb_driver"]
+	path = crates/igb_driver
+	url = https://github.com/bullhh/igb_driver
