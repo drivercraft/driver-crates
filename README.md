@@ -18,4 +18,7 @@ Reusable crates list for driver development.
 | [any-uart](https://github.com/rcore-os/any-uart) | [![Crates.io](https://img.shields.io/crates/v/any-uart.svg)](https://crates.io/crates/any-uart) | [![Documentation](https://docs.rs/any-uart/badge.svg)](https://docs.rs/any-uart) | Init early console from device tree, mostly for Arm |
 | [fdt-parser](https://github.com/drivercraft/fdt-parser) | [![Crates.io](https://img.shields.io/crates/v/fdt-parser.svg)](https://crates.io/crates/fdt-parser) | [![Documentation](https://docs.rs/fdt-parser/badge.svg)](https://docs.rs/fdt-parser) | A crate for parsing FDT |
 | [igb_driver](https://github.com/bullhh/igb_driver) | N/A | [![Docs.rs](https://img.shields.io/badge/docs-pages-green)](https://drivercraft.github.io/igb_driver) |  |
+| [phytium-mci](https://github.com/qclic/phytium-mci) | N/A | [![Docs.rs](https://img.shields.io/badge/docs-pages-green)](https://drivercraft.github.io/phytium-mci) |  |
+| [crab-usb](https://github.com/drivercraft/CrabUSB) | N/A | [![Docs.rs](https://img.shields.io/badge/docs-pages-green)](https://drivercraft.github.io/CrabUSB) | A simple usb host |
+| [e1000-driver](https://gitee.com/zr233/e1000-rust) | [![Crates.io](https://img.shields.io/crates/v/e1000-driver.svg)](https://crates.io/crates/e1000-driver) | [![Documentation](https://docs.rs/e1000-driver/badge.svg)](https://docs.rs/e1000-driver) | E1000 driver in Rust for the Intel 82540EP/EM Gigabit Ethernet. |
 
