@@ -34,12 +34,15 @@
 [submodule "crates/igb_driver"]
 	path = crates/igb_driver
 	url = https://github.com/bullhh/igb_driver
-[submodule "crates/phytium-mci"]
-	path = crates/phytium-mci
-	url = https://github.com/qclic/phytium-mci
 [submodule "crates/CrabUSB"]
 	path = crates/CrabUSB
 	url = https://github.com/drivercraft/CrabUSB
 [submodule "crates/e1000-rust"]
 	path = crates/e1000-rust
 	url = https://gitee.com/zr233/e1000-rust
+[submodule "crates/phytium-mci"]
+	path = crates/phytium-mci
+	url = https://github.com/drivercraft/phytium-mci
+[submodule "crates/sdmmc"]
+	path = crates/sdmmc
+	url = https://github.com/drivercraft/sdmmc
