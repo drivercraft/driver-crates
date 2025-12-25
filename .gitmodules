@@ -21,7 +21,7 @@
 	url = https://github.com/rcore-os/serial-async
 [submodule "crates/ostool"]
 	path = crates/ostool
-	url = https://github.com/ZR233/ostool
+	url = https://github.com/drivercraft/ostool
 [submodule "crates/nvme"]
 	path = crates/nvme
 	url = https://github.com/drivercraft/nvme
